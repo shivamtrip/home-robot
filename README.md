@@ -10,7 +10,8 @@ The user provides a voice command to Alfred (Stretch RE1 robot) for fetching an 
 - For HRI, we are using Google Cloud Speech-to-Text API and the ChatGPT API. 
 - For Navigation and obstacle avoidance, we are using ROS, Movebase, 2D Lidar slam and other frameworks / algorithms.
 - For Perception and manipulation, we are using Yolo v8, Graspnet and have implemented multiple finite state machines.
-- For overall system integration, we have a system-level finite state machine. 
+- For overall system integration, we have a system-level finite state machine.
+- For low-level joint control, we are leveraging the Stretch RE1's open-source APIs.
 
 **Link to video:** https://www.youtube.com/watch?v=Km9_RogBT0A
 
