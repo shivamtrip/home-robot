@@ -2,6 +2,7 @@
 
 This was a team project. The user provides a voice command to Alfred (Stretch RE1 robot) for fetching an object. Alfred understands this command, plans and navigates to the object's apprixamte location in the environment, scans for the object, detects the object, identifies grasp points, picks up the object and finally returns back to the user with the desired object. 
 
-**Link to video: **
-<img src ="https://www.youtube.com/watch?v=Km9_RogBT0A" />
+**Link to video:** https://www.youtube.com/watch?v=Km9_RogBT0A
+
+
 
