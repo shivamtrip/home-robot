@@ -17,5 +17,6 @@ My primary role in this project has been to set up, test and optimize the naviga
 
 **Link to video:** https://www.youtube.com/watch?v=Km9_RogBT0A
 
+<video src='https://www.youtube.com/watch?v=Km9_RogBT0A' width=180/>
 
 
