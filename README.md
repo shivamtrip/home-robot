@@ -3,7 +3,7 @@
 This is an ongoing team project, therefore the code for this project is still private. 
 
 ## High-level project overview:
-**Developing and integrating the end-to-end autonomy stack for an indoor asstive robot.**
+**Developing and integrating the end-to-end autonomy stack for an indoor assistive robot.**
 
 _Link to video:_ https://www.youtube.com/watch?v=Km9_RogBT0A
 
