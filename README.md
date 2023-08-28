@@ -17,4 +17,6 @@ The user provides a voice command to Alfred (Stretch RE1 robot) for fetching an 
 
 My primary role in this project has been to set up, test and optimize the navigation subsytem. Through the course of the project, I have also contributed to various perception, manipulation and system-integration aspects of the project.
 
+<img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/1e100290-46ea-495f-a957-8b471560a2af" width="400"> <br />
 
+<img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/70ea1de4-8b33-4bba-8c48-f97217c494ce" width="200">
