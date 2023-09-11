@@ -5,7 +5,8 @@ This is an ongoing team project, therefore the code for this project is still pr
 ## High-level project overview:
 **Developing and integrating the end-to-end autonomy stack for an indoor assistive robot.**
 
-_Link to video:_ https://www.youtube.com/watch?v=Km9_RogBT0A
+_Project video:_ https://www.youtube.com/watch?v=Km9_RogBT0A <br />
+_Project website:_ https://mrsdprojects.ri.cmu.edu/2023teamf
 
 The user provides a voice command to Alfred (Stretch RE1 robot) for fetching an object. Alfred understands this command, plans and navigates to the object's approximate location in the environment, scans for the object, detects the object, identifies grasp points, picks up the object and finally returns back to the user with the desired object. 
 
