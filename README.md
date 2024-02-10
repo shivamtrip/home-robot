@@ -1,6 +1,8 @@
-## End-to-end autonomy (HRI, Perception, Planning, Navigation, Manipulation, Controls) on a Stretch RE1 robot
+# End-to-end autonomy (HRI, Perception, Planning, Navigation, Manipulation, Controls) on a Stretch RE1 robot
 
 This was my Master's capstone project at CMU Robotics. It involved developing and integrating an end-to-end autonomy stack for an indoor assistive robot.
+
+<img src = "https://github.com/shivamtrip/assistive-robot/assets/66013750/14234b28-ac6d-40ec-b1de-346036927dd9" width="400"> <br />
 
 _Project video:_ https://www.youtube.com/watch?v=Km9_RogBT0A <br />
 _Project website:_ https://mrsdprojects.ri.cmu.edu/2023teamf <br />
@@ -19,12 +21,15 @@ The user provides a voice command to Alfred (Stretch RE1 robot) for fetching an 
 - Designed & implement a robust software architecture which integrates a cloud-server, HRI interfaces, navigation / manipulation stacks and a high-level task planner.
 - Through the course of the project, I have also contributed to various perception, manipulation and system-integration aspects of the project.
 
-<img src = "https://github.com/shivamtrip/assistive-robot/assets/66013750/14234b28-ac6d-40ec-b1de-346036927dd9" width="400"> <br />
-
+## Videos
 Navigation             |  Manipulation
 :-------------------------:|:-------------------------:
-<img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/1e100290-46ea-495f-a957-8b471560a2af" width="300"> | <img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/70ea1de4-8b33-4bba-8c48-f97217c494ce" width="200">
-<img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/a8193a54-35c2-475d-b4ac-610d60c80ebc" width="300">   ![](https://...Ocean.png)
+<img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/1e100290-46ea-495f-a957-8b471560a2af" width="300"> &nbsp; | &nbsp; <img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/dff5e9ea-fbcd-4010-8c83-e1c2e1148439" width="250" > <br />
+<img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/a8193a54-35c2-475d-b4ac-610d60c80ebc" width="300"> &nbsp;| &nbsp; <img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/dd773590-5f12-440e-ad63-26ebbec67c77" width="250" > <br />
+
+## Software Architectures
+<img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/88090221-8ec4-4269-adfb-42e53fbcacad" width="600"> <br />
+<img src="https://github.com/shivamtrip/assistive-robot/assets/66013750/c14cb16d-5892-42ca-bdbb-2b5f7a2501a3" width="600">
 
 
 
