@@ -9,12 +9,12 @@ _Project Github:_ https://github.com/Auxilio-Robotics/alfred-deployed
 The user provides a voice command to Alfred (Stretch RE1 robot) for fetching an object. Alfred understands this command, plans and navigates to the object's approximate location in the environment, scans for the object, detects the object, identifies grasp points, picks up the object and finally returns back to the user with the desired object. 
 
 - For HRI, we are using Google Cloud Speech-to-Text API and the ChatGPT API. 
-- For Navigation and obstacle avoidance, we are using ROS, Movebase, 2D Lidar slam and other frameworks / algorithms.
-- For Perception and manipulation, we are using Yolo v8, Graspnet and have implemented multiple finite state machines.
+- For Navigation, we are using ROS Movebase, STVL for 3D Obstacle Avoidance, GMapping for 2D Lidar SLAM, AMCL for 2D Localization, A* for global planning and DWA for local planning.
+- For Perception and Manipulation, we are using Yolo v8, Graspnet and have implemented multiple finite state machines.
 - For overall system integration, we have a system-level finite state machine.
 - For low-level joint control, we are leveraging the Stretch RE1's open-source APIs.
 
-My primary role in this project has been: 
+**My primary role in this project has been:** 
 - Use ROS / C++ / Python to set up and optimize the navigation stack (localization, planning & 3D obstacle avoidance)
 - Designed & implement a robust software architecture which integrates a cloud-server, HRI interfaces, navigation / manipulation stacks and a high-level task planner.
 - Through the course of the project, I have also contributed to various perception, manipulation and system-integration aspects of the project.
