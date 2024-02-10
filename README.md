@@ -5,9 +5,10 @@
 
 <img src = "https://github.com/shivamtrip/assistive-robot/assets/66013750/14234b28-ac6d-40ec-b1de-346036927dd9" width="400"> <br />
 
-_Project YouTube:_ https://www.youtube.com/watch?v=Km9_RogBT0A <br />
-_Project Website:_ https://mrsdprojects.ri.cmu.edu/2023teamf <br />
-_Project Github:_ https://github.com/Auxilio-Robotics/alfred-deployed
+**Important Links:**
+- [Project YouTube](https://www.youtube.com/@AuxilioRobotics) <br />
+- [Project Website](https://mrsdprojects.ri.cmu.edu/2023teamf)  <br />
+- [Project Github](https://github.com/Auxilio-Robotics/alfred-deployed) 
 
 ## Implementation
 The user provides a voice command to Alfred (Stretch RE1 robot) for fetching an object. Alfred understands this command, plans and navigates to the object's approximate location in the environment, scans for the object, detects the object, identifies grasp points, picks up the object and finally returns back to the user with the desired object. 
