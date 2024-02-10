@@ -16,10 +16,10 @@ The user provides a voice command to Alfred (Stretch RE1 robot) for fetching an 
 - For overall system integration, we have a system-level finite state machine.
 - For low-level joint control, we are leveraging the Stretch RE1's open-source APIs.
 
-**My primary role in this project has been:** 
+**My primary role in this project:** 
 - Use ROS / C++ / Python to set up and optimize the navigation stack (localization, planning & 3D obstacle avoidance)
 - Design & implement a robust software architecture which integrates a cloud-server, HRI interfaces, navigation / manipulation stacks and a high-level task planner.
-- Through the course of the project, I have also contributed to various perception, manipulation and system-integration aspects of the project.
+- Through the course of the project, I also contributed to various perception, manipulation and system-integration aspects of the project.
 
 
 ## Videos
