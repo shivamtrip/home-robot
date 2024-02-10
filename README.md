@@ -3,12 +3,9 @@
 - This was my Master's capstone project at CMU Robotics. It involved developing and integrating an end-to-end autonomy stack for an indoor assistive robot.
 - At the end of our project (Dec-2023), we successfully [deployed our robot at an Assisted Living Facility](https://www.youtube.com/watch?v=epFzxcuik8c&ab_channel=AuxilioRobotics) in Pittsburgh and Carnegie Mellon University [featured our work](https://www.cs.cmu.edu/news/2023/care-home-robot).
 
-<img src = "https://github.com/shivamtrip/assistive-robot/assets/66013750/14234b28-ac6d-40ec-b1de-346036927dd9" width="400"> <br />
+<img src = "https://github.com/shivamtrip/assistive-robot/assets/66013750/14234b28-ac6d-40ec-b1de-346036927dd9" width="450"> <br />
 
-**Important Links:**
-- [Project YouTube](https://www.youtube.com/@AuxilioRobotics) <br />
-- [Project Website](https://mrsdprojects.ri.cmu.edu/2023teamf)  <br />
-- [Project Github](https://github.com/Auxilio-Robotics/alfred-deployed) 
+**Important Links:** [Project YouTube](https://www.youtube.com/@AuxilioRobotics), [Project Website](https://mrsdprojects.ri.cmu.edu/2023teamf), [Project Github](https://github.com/Auxilio-Robotics/alfred-deployed) 
 
 ## Implementation
 The user provides a voice command to Alfred (Stretch RE1 robot) for fetching an object. Alfred understands this command, plans and navigates to the object's approximate location in the environment, scans for the object, detects the object, identifies grasp points, picks up the object and finally returns back to the user with the desired object. 
